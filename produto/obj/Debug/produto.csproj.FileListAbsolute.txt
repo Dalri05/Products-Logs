@@ -1,0 +1,16 @@
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\obj\Debug\produto.csproj.AssemblyReference.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\obj\Debug\produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\obj\Debug\produto.csproj.CoreCompileInputs.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\bin\Debug\produto.exe.config
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\bin\Debug\produto.exe
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\bin\Debug\produto.pdb
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\obj\Debug\produto.exe
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\produto\obj\Debug\produto.pdb
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\bin\Debug\produto.exe.config
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\bin\Debug\produto.exe
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\bin\Debug\produto.pdb
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\obj\Debug\produto.csproj.AssemblyReference.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\obj\Debug\produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\obj\Debug\produto.csproj.CoreCompileInputs.cache
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\obj\Debug\produto.exe
+C:\Users\minef\OneDrive\Área de Trabalho\cadastro de produto webhook e api\produto\obj\Debug\produto.pdb
